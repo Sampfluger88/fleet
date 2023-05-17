@@ -49,7 +49,7 @@ Last minute changes or cancellations should be communicated to Mike via DM rathe
 
 > TODO: let's rethink this.  -Mike, March 2023
 
- - Labels: /DOTO Mike, /FYI Mike, /EA is monitoring, /Signature needed
+ - Labels: /TODO Mike, /FYI Mike, /EA is monitoring, /Signature needed
  - Emails that need the CEO's attention should be "starred" 
  - EA should prepare draft responses, move drafts to the Inbox, and label
 
